@@ -2,7 +2,7 @@
 
 This is my implementation of the Isolation Forest anomaly detection algorithm from 
 [a paper](https://www.researchgate.net/publication/224384174_Isolation_Forest) by Fei Tony Liu, Kai Ming Ting, 
-and Zhi-Hua Zhou. The code adapted from a project I did for a course in Algorithms and Data Structures taught by [Terence Parr](https://github.com/parrt) as part of the University of San Francisco Master of Science in Data Science program.
+and Zhi-Hua Zhou. The code is adapted from a project I did for a course in Algorithms and Data Structures taught by [Terence Parr](https://github.com/parrt) as part of the University of San Francisco Master of Science in Data Science program.
 
 ## Improving on the original algorithm for efficiency
 
