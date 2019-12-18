@@ -6,7 +6,7 @@ and Zhi-Hua Zhou. The code is adapted from a project I did for a course in Algor
 
 ## Improving on the original algorithm for efficiency
 
-The original algorithm is quite slow in Python. Instead of randomly splitting the data as described by Liu, Ting, and Zhou, I randomly partitioned the data 5 times and then chose the partition that created the biggest difference in size between the two parts. This caused anomalies to be isolated sooner.
+The original algorithm is pretty slow in Python. Instead of randomly splitting the data as described by Liu, Ting, and Zhou, I randomly partitioned the data 5 times and then chose the partition that created the biggest difference in size between the two parts. This improved the efficiency of the algorithm by causing anomalies to be isolated sooner.
 
 ## Data
 
